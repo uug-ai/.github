@@ -2,7 +2,7 @@
 
 Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. Together with uug.ai, we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
 
-At uug.ai we are bringing machine learning for vision to life by implementing tools such as `kerberos.io` to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `kubernetes` and `docker` and making models interactive through custom user interfaces and industry specific use cases (e.g. `facial access control`). In the end a machine learning model with a UI, is just a model that nobody can use.
+At uug.ai we are bringing machine learning for vision to life by implementing tools such as `kerberos.io` to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `kubernetes` and `docker` and making models interactive through custom user interfaces and industry specific use cases (e.g. `facial access control`). In the end a machine learning model with a UI and that cannot scale, is just a model that nobody can use.
 
 ## Our products
 

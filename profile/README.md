@@ -17,6 +17,8 @@ We have build an open source product that relies on various face recognition mod
 
 Kerberos.io comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264 and H265). In other words, you run the show!
 
+[📚 Learn more about the project](https://github.com/kerberos-io)
+
 Each component in the Kerberos.io architecture can be installed how and where you want. This means you can create hybrid scenarios, or go for a full-cloud or full-onpremise deployment.
 
 - [Kerberos Agent](https://github.com/kerberos-io/agent)

@@ -19,11 +19,4 @@ Kerberos.io comes with a range of solutions helping you to setup a small video s
 
 [📚 Learn more about the project](https://github.com/kerberos-io)
 
-Each component in the Kerberos.io architecture can be installed how and where you want. This means you can create hybrid scenarios, or go for a full-cloud or full-onpremise deployment.
-
-- [Kerberos Agent](https://github.com/kerberos-io/agent)
-- [Kerberos Factory](https://github.com/kerberos-io/factory)
-- [Kerberos Vault](https://github.com/kerberos-io/vault)
-- [Kerberos Hub](https://github.com/kerberos-io/hub)
-
 [![Prologue - How it works](https://github.com/kerberos-io/.github/blob/main/profile/Prologue%20-%20How%20it%20works.svg)](https://doc.kerberos.io/prologue/deployments/)

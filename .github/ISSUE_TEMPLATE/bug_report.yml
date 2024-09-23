@@ -14,10 +14,22 @@ body:
   - type: textarea
     attributes:
       label: Environment
-      description: >
-        Provide details about your environment.
+      descripton: >
+         Provide details about your environment (e.g., OS, browser, app version, docker version, etc).
+      placeholder: |
+         Add your environment details here.
     validations:
       required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Replicate
+      description: >
+        Describe the steps to replicate the bug.
+      placeholder: |
+        1. 
+        2. 
+        3. 
 
   - type: textarea
     attributes:
@@ -26,7 +38,7 @@ body:
         If applicable, provide screenshots or logs to help explain or demonstrate the bug.
         You can drag-and-drop images here or paste them directly into this field.
       placeholder: |
-        Attach screenshots or logs here...
+        Attach screenshots or logs here.
 
   - type: textarea
     attributes:

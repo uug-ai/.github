@@ -13,12 +13,12 @@ body:
 
   - type: textarea
     attributes:
-      label: Screenshots or Logs
+      label: Screenshots or wireframes
       description: >
-        If applicable, please provide screenshots or logs that help explain or demonstrate the feature or issue.
+        If applicable, please provide additional documentation that helps explain or demonstrate the feature or issue.
         You can drag-and-drop images here or paste them directly into this field.
       placeholder: |
-        Attach screenshots or logs here...
+        Attach screenshots or logs here.
 
   - type: textarea
     attributes:

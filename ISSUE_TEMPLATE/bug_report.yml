@@ -1,0 +1,36 @@
+name: Bug Report
+description: Report a bug or issue
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: A short description of the bug.
+      placeholder: |
+        Briefly describe the bug or issue you're experiencing.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment
+      description: >
+        Provide details about your environment.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Screenshots or Logs
+      description: >
+        If applicable, provide screenshots or logs to help explain or demonstrate the bug.
+        You can drag-and-drop images here or paste them directly into this field.
+      placeholder: |
+        Attach screenshots or logs here...
+
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Anything else you’d like to share?
+      placeholder: |
+        Any other details that may help us understand and resolve the issue.

@@ -14,10 +14,10 @@ body:
   - type: textarea
     attributes:
       label: Environment
-      descripton: >
-         Provide details about your environment (e.g., OS, browser, app version, docker version, etc).
+      description: >
+        Provide details about your environment (e.g., OS, browser, app version, Docker version, etc.).
       placeholder: |
-         Add your environment details here.
+        Add your environment details here.
     validations:
       required: true
 
@@ -30,6 +30,8 @@ body:
         1. 
         2. 
         3. 
+    validations:
+      required: true
 
   - type: textarea
     attributes:

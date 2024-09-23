@@ -22,5 +22,15 @@ body:
 
   - type: textarea
     attributes:
+      label: Related Issues
+      description: >
+        If there are related issues or feature requests, please provide links to them.
+      placeholder: |
+        Link related issues here.
+
+  - type: textarea
+    attributes:
       label: Additional Information
       description: Anything else you’d like to share?
+
+      

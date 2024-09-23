@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest a feature or improvement
-title: "Request a feature!"
-
+labels: [feature]
+body:
   - type: textarea
     attributes:
       label: Description
@@ -12,21 +12,6 @@ title: "Request a feature!"
       required: true
 
   - type: textarea
-    attributes:
-      label: Use case
-      description: |
-        Describe the use case for the feature. This will help us understand its priority and impact.
-      placeholder: |
-        How would this feature be used in the app, and by whom?
-
-  - type: textarea
-    attributes:
-      label: Technical details
-      description: Any technical considerations or requirements for implementing the feature.
-      placeholder: |
-        Are there any specific technologies, integrations, or dependencies involved?
-
-   - type: textarea
     attributes:
       label: Screenshots or Logs
       description: >

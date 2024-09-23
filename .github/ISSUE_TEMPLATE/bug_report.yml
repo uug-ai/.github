@@ -15,7 +15,7 @@ body:
     attributes:
       label: Environment
       description: >
-        Provide details about your environment (e.g., OS, browser, app version, Docker version, etc.).
+        Provide details about your environment (e.g., OS, browser, app version, Docker version, Helm chart, etc.).
       placeholder: |
         Add your environment details here.
     validations:

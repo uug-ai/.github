@@ -1,0 +1,41 @@
+name: Feature Request
+description: Suggest a feature or improvement
+title: "Request a feature!"
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: A short description of your requested feature.
+      placeholder: |
+        What feature would you like to add to the video surveillance app?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Use case
+      description: |
+        Describe the use case for the feature. This will help us understand its priority and impact.
+      placeholder: |
+        How would this feature be used in the app, and by whom?
+
+  - type: textarea
+    attributes:
+      label: Technical details
+      description: Any technical considerations or requirements for implementing the feature.
+      placeholder: |
+        Are there any specific technologies, integrations, or dependencies involved?
+
+   - type: textarea
+    attributes:
+      label: Screenshots or Logs
+      description: >
+        If applicable, please provide screenshots or logs that help explain or demonstrate the feature or issue.
+        You can drag-and-drop images here or paste them directly into this field.
+      placeholder: |
+        Attach screenshots or logs here...
+
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Anything else you’d like to share?

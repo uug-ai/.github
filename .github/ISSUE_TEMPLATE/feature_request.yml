@@ -7,7 +7,7 @@ body:
       label: Description
       description: A short description of your requested feature.
       placeholder: |
-        What feature would you like to add to the video surveillance app?
+        Describe the feature here.
     validations:
       required: true
 

@@ -1,9 +1,5 @@
 {
     "name": "Readme Generator",
     "description": "Generate a README file for your project",
-    "iconName": "example-icon",
-    "categories": [
-        "Go",
-        "Python"
-    ]
+    "iconName": "example-icon"
 }

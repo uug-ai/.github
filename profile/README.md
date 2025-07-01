@@ -1,4 +1,4 @@
-# Welcome to uugment
+# A place where we augment vision with artificial intelligence and beautifully engineered software
 
 Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. At uugment we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
 

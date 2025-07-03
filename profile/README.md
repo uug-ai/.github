@@ -1,4 +1,4 @@
-# Augment vision with artificial intelligence
+# Augment vision with Artificial Intelligence
 
 Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. At uugment we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
 

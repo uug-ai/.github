@@ -1,6 +1,6 @@
-# Augment vision with Artificial Intelligence
+# Augment Vision with Artificial Intelligence
 
-Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. At uugment we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
+Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. At Augment Vision (aka uugment) we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
 
 At uugment we are bringing machine learning for vision to life by implementing tools such as `kerberos.io` to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `Kubernetes` and `Docker` and making models interactive through custom user interfaces and industry specific use cases (e.g. `facial access control`). In the end a machine learning model without a UI, that cannot scale, is just a model that nobody can use.
 
@@ -16,6 +16,6 @@ Insight comes with a range of solutions helping you to setup a small video surve
 
 ## Internships
 
-Within uugment we are always on the lookout for talented, creative and amazing people. Are you looking to becoming an machine learning or computer vision engineer? Then have a look at one of our internships [on our website](https://uug.ai/about/).
+Within Augment Vision we are always on the lookout for talented, creative and amazing people. Are you looking to becoming an machine learning or computer vision engineer? Then have a look at one of our internships [on our website](https://uug.ai/about/).
 
 [![Intership](https://img.youtube.com/vi/cLYdl1UKV4o/0.jpg)](https://www.youtube.com/watch?v=cLYdl1UKV4o)

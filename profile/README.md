@@ -1,8 +1,8 @@
 # Augment Vision with Artificial Intelligence
 
-Cool, you are building vision models! But can you deploy 📦 and scale 🚀 them? You are not alone. At Augment Vision (aka **uugment.ai** or short version **uug.ai**) we scale machine learning models and computer vision algorithms to transform vision into innovative and impactful solutions, enriching lives and industries.
+We guide advanced computer vision and AI models from experimentation to enterprise-scale deployment — building reliable, high-performance systems that accelerate innovation and generate real-world impact across industries.
 
-At uugment we are bringing machine learning for vision to life by implementing tools such as `kerberos.io` to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `Kubernetes` and `Docker` and making models interactive through custom user interfaces and industry specific use cases (e.g. `facial access control`). In the end a machine learning model without a UI, that cannot scale, is just a model that nobody can use.
+At Augment Vision (aka **uugment.ai** or short version **uug.ai**) we are bringing machine learning for vision to life by implementing tools such as `kerberos.io` to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `Kubernetes` and `Docker` and making models interactive through custom user interfaces and industry specific use cases (e.g. `facial access control`). In the end a machine learning model without a UI, that cannot scale, is just a model that nobody can use.
 
 ## Our products
 

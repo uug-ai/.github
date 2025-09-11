@@ -1,4 +1,4 @@
-# Augment Vision - Pioneering the future of video AI
+# Augment Vision - Scaling the future of video AI
 
 We guide advanced computer vision and AI models from experimentation to enterprise-scale deployment — building reliable, high-performance systems that accelerate innovation and generate real-world impact across industries.
 

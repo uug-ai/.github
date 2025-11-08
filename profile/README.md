@@ -13,9 +13,3 @@ At Augment Vision we are bringing machine learning for vision to life by impleme
 Augment Vision comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264 and H265). In other words, you run the show!
 
 <img width="1512" height="951" alt="Backbone" src="https://github.com/user-attachments/assets/050327c6-4fec-4d80-b4d1-55fe56555e59" />
-
-## Internships
-
-Within Augment Vision we are always on the lookout for talented, creative and amazing people. Are you looking to becoming an machine learning or computer vision engineer? Then have a look at one of our internships [on our website](https://uug.ai/about/).
-
-[![Intership](https://img.youtube.com/vi/cLYdl1UKV4o/0.jpg)](https://www.youtube.com/watch?v=cLYdl1UKV4o)

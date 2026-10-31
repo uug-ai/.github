@@ -1,15 +1,14 @@
-# Augment Vision - Scaling the future of vision AI
+# Augment Vision
 
-We guide advanced computer vision and AI models from experimentation to enterprise-scale deployment — building reliable, high-performance systems that accelerate innovation and generate real-world impact across industries.
+**Scaling the future of vision AI.**
 
-> A machine learning model that cannot be integrated at scale, is just a model that nobody can use.
+We help organisations take computer vision from a proof of concept to a reliable, enterprise-scale deployment. Our platform connects the IP cameras you already have, records and analyses every stream, and runs your machine learning models at scale on Kubernetes and Docker, whether you start with a handful of cameras or manage thousands.
 
-At Augment Vision we are bringing machine learning for vision to life by implementing tools to scale a video network of ip cameras, applying MLOps best pratices to scale machine learning models through `Kubernetes` and `Docker` and making models interactive through custom user interfaces and industry specific use cases. 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uug-ai/.github/main/profile/ecosystem-dark.svg">
+    <img width="820" alt="The Augment Vision platform: Factory deploys an Agent for every camera; the Agents upload their recordings to Vault and send their events to Hub, and Hub plays recordings back from Vault." src="https://raw.githubusercontent.com/uug-ai/.github/main/profile/ecosystem-light.svg">
+  </picture>
+</p>
 
-## Our products
-
-### Agent, Factory, Vault and Hub
-
-Augment Vision comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264 and H265). In other words, you run the show!
-
-<img width="1512" height="951" alt="Backbone" src="https://github.com/user-attachments/assets/050327c6-4fec-4d80-b4d1-55fe56555e59" />
+[**Factory**](https://learn.uug.ai/docs/factory/) deploys an [**Agent**](https://learn.uug.ai/docs/agent/) for every camera. Each Agent records and analyses its stream, uploads recordings to [**Vault**](https://learn.uug.ai/docs/vault/) and sends events to [**Hub**](https://learn.uug.ai/docs/hub/), where your teams monitor live, receive alerts and play recordings back. You stay in control of where it all runs and where your data lives: on-premise, hybrid or in the cloud, with your own storage and your own cameras.

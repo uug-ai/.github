@@ -1,8 +1,6 @@
 # Augment Vision
 
-**Scaling the future of vision AI.**
-
-We help organisations take computer vision from a proof of concept to a reliable, enterprise-scale deployment. Our platform connects the IP cameras you already have, records and analyses every stream, and runs your machine learning models at scale on Kubernetes and Docker, whether you start with a handful of cameras or manage thousands.
+UUG.AI (Augment Vision) provides a single control layer to deploy, monitor, and scale vision AI across multi-vendor camera fleets. Compatible with 100+ brands, it seamlessly unites legacy hardware across edge, hybrid, and cloud environments. Users can easily automate streams using a drag-and-drop workflow editor with built-in AI or custom microservices. Keep total data ownership while boosting operational efficiency.
 
 <p align="center">
   <a href="https://learn.uug.ai/" title="Explore the platform on learn.uug.ai">

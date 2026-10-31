@@ -8,7 +8,7 @@ We help organisations take computer vision from a proof of concept to a reliable
   <a href="https://learn.uug.ai/" title="Explore the platform on learn.uug.ai">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uug-ai/.github/main/profile/ecosystem-dark.svg">
-    <img width="820" alt="The Augment Vision platform: Factory deploys an Agent for every camera; the Agents upload their recordings to Vault and send their events to Hub, and Hub plays recordings back from Vault." src="https://raw.githubusercontent.com/uug-ai/.github/main/profile/ecosystem-light.svg">
+    <img width="820" alt="The Augment Vision platform: Factory deploys an Agent for every camera; the Agents upload their recordings to Vault and send their events to Hub, and Hub plays recordings back from Vault. Opens the interactive version on learn.uug.ai." src="https://raw.githubusercontent.com/uug-ai/.github/main/profile/ecosystem-light.svg">
   </picture>
   </a>
 </p>
